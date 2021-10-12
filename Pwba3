@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>HomePage</title>    
+
+    <link rel="stylesheet" href="page.css">    
+
+</head>
+
+<body>
+
+   
+
+    <header>
+
+      
+
+       <div class="nav">
+
+            <nav>
+
+
+
+                <ul class="parent-ul">
+
+                    
+
+                    <li class="list-bar-3"><a href="#"><i> More </i> </a>
+
+                       
+
+                        <ul class="drop-3">
+
+                            <li><a href="pabout.html">About this website</a></li>
+
+                        </ul>
+
+                    </li>
+
+                   
+
+                </ul>
+
+            </nav>
+
+        </div>
+
+      
+
+    </header>
+
+
+
+    <div class="content">
+
+        <div class="all">
+
+            <marquee behavior="scroll" direction="rtl">
+
+            <h1 style="color: rgb(163, 188, 255); ">Hello and welcome to my website</h1></marquee>
+
+            <br>
+
+         <p style="color: ivory; margin-left: 340px;" >  </p>
+
+            
+
+        </div>
+
+ 
+
+        
+
+            <div class="ads"> Movies  </div>
+
+            <div class="slide-article">
+
+                <div class="part-slide">
+
+
+
+                    <div class="img-slide">
+
+                            <a href="inter.html"> <img src="inter.jpg" alt=""> </a>
+
+                  
+
+                    </div>
+
+                  
+
+                </div>
+
+                <div class="part-slide">
+
+                    <div class="img-slide">
+
+                        <a href="irishman.html"> 
+
+                            <img src="irish.jpg" alt="">
+
+                        </a>
+
+                        
+
+                    </div>
+
+                   
+
+                </div>
+
+                <div class="part-slide">
+
+                  
+
+                    <div class="img-slide">
+
+                      
+
+                      <a href="bm.html"> 
+
+
+
+                        <img src="Poster.jpg" alt="" height="100%">
+
+                      </a>
+
+                        
+
+                    </div>
+
+                
+
+
+
+
+
+                    <div class="title-slide">
+
+                        
+
+                        <p>  <i class="far fa-clock"> </i>  </p>
+
+                    </div>
+
+
+
+                </div>
+
+                    <div class="img-slide">
+
+                       
+
+
+
+                        <a href="pursuit.html">
+
+                            <img src="pur.jpg" alt="">
+
+
+
+                        </a>
+
+                    
+
+                    </div>
+
+
+
+
+
+                    
+
+                  
+
+                </div>
+
+
+
+            </div>
+
+        
+
+    
+
+    
+
+
+
+    
+
+        <div class="footer-contatn">
+
+            <div class="name-contant">
+
+               
+
+                <h1>Coded by Ahmed Jamil </h1>
+
+                <p> MIS student</p>
+
+            </div>
+
+
+
+
+
+           
+
+            </div>
+
+    
+
+</body>
+
+</html>
+
